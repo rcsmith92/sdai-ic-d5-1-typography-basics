@@ -13,7 +13,7 @@ h6 {
 
 /* Base Styles for Paragraphs */
 p {
-    font-family: 'Patrick Hand', cursive;
+    font-family: "DM Serif Text", serif;
     color: #f4f4f4;
     font-size: 1rem;
     line-height: 1.6;
@@ -45,7 +45,7 @@ p {
 
 /* Page Background */
 body {
-    background-color: #2d2d2d;
+    background-color: #7b7b7b;
     color: #f4f4f4;
     font-family: 'Patrick Hand', cursive;
     margin: 0;
